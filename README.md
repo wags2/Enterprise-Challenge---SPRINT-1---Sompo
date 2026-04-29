@@ -307,7 +307,7 @@ OUTPUTS:
 
 ## 📽️ Apresentação em Vídeo
 
-> 🔗 **Link do vídeo:** *(inserir link após gravação)*
+> 🔗 **Link do vídeo:** *https://www.youtube.com/watch?v=C6UGJcCOSmw*
 
 O vídeo apresenta:
 1. Contextualização do problema (equipamentos agrícolas e riscos)
